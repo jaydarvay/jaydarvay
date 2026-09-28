@@ -1,4 +1,8 @@
-## Hi there 👋
+## Projects 
 
-Please check out some of my university projects below, as well as some finance related projects that I am working on at the moment. Also, feel free to connect with me on LinkedIn. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Darvay-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydarvay/)
+University and finance-related projects 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydarvay/)
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Darvay-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydarvay/)
 
