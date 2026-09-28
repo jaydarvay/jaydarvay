@@ -1,4 +1,4 @@
-## Projects 
+## 📊 Projects 
 
 University projects and finance-related projects.
 
